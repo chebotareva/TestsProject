@@ -1,0 +1,10 @@
+D:\TFS\SED\Sandbox\mchebotareva\TestProject\TestProject\bin\Debug\TestProject.dll
+D:\TFS\SED\Sandbox\mchebotareva\TestProject\TestProject\bin\Debug\TestProject.pdb
+D:\TFS\SED\Sandbox\mchebotareva\TestProject\TestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\TFS\SED\Sandbox\mchebotareva\TestProject\TestProject\bin\Debug\WebDriver.dll
+D:\TFS\SED\Sandbox\mchebotareva\TestProject\TestProject\bin\Debug\WebDriver.Support.dll
+D:\TFS\SED\Sandbox\mchebotareva\TestProject\TestProject\bin\Debug\WebDriver.xml
+D:\TFS\SED\Sandbox\mchebotareva\TestProject\TestProject\bin\Debug\WebDriver.Support.xml
+D:\TFS\SED\Sandbox\mchebotareva\TestProject\TestProject\obj\Debug\TestProject.dll
+D:\TFS\SED\Sandbox\mchebotareva\TestProject\TestProject\obj\Debug\TestProject.pdb
+D:\TFS\SED\Sandbox\mchebotareva\TestProject\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
